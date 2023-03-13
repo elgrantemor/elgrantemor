@@ -9,4 +9,5 @@
  <a href="https://www.twitch.tv/elgrantemoroficial" > 
      <img src="[https://img.shields.io/badge/twitch/extension/v/:extensionId](https://img.shields.io/twitch/status/elgrantemoroficial?style=social)" alt="Twitch"/>
    </a>
+   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/elgrantemoroficial?style=social">
 </div>
