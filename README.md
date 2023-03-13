@@ -7,6 +7,6 @@
 </div>
 <div id="badges" aling="center" target="_blank">
  <a href="https://www.twitch.tv/elgrantemoroficial" > 
-     <img src="https://img.shields.io/badge/twitch/extension/v/:extensionId" alt="Twitch"/>
+     <img src="[https://img.shields.io/badge/twitch/extension/v/:extensionId](https://img.shields.io/twitch/status/elgrantemoroficial?style=social)" alt="Twitch"/>
    </a>
 </div>
